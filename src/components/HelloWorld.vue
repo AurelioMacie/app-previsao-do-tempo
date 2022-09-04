@@ -16,6 +16,7 @@ h1 {
   font-weight: 500;
   font-size: 2.6rem;
   top: -10px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 h3 {

@@ -1,14 +1,11 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
-import NovoComponente from './components/NovoComponente.vue';
+import Card from './components/Card.vue';
 </script>
 
 <template>
   <header>
-
     <div class="wrapper">
-      <NovoComponente/>
+      <Card/>
     </div>
   </header>
   <main>
